@@ -1,0 +1,19 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Coding Blog",
+    "tag_line": "A Blog liked by programmers",
+    "_comment": "for send email of contact message, 'gmail-user',: 'kirn.sonwn@gmail.com', 'gmail-password': '******'",
+    "about_text": "Hi my name is kiran and I create programming blog and I am Python Developer",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "user",
+    "admin_password": "password",
+    "upload_location": "D:\\python programs\\flask projects\\clean_blog"
+  }
+}
